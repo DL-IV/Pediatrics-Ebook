@@ -1,3 +1,5 @@
 # Pediatrics
+Pediatrics's documents.
 
-Arthor: Dr. Louis
+## Copyright
+Copyright (c) Doctor Louis.
